@@ -1,8 +1,10 @@
 Hello all.
 This is the repository for all the files that are necessary for the problem statement 2 presented in IITM hackathon
-Problem Statement 2: Real-Time Credit Risk Assessment Using Alternative
- Data
+
+Problem Statement 2: Real-Time Credit Risk Assessment Using Alternative Data
+ 
  Track: Analytics, Finance
+ 
  Objective:
  Develop a system that assesses credit risk in real time by analyzing traditional financial data
  and alternative data sources like social media, utility payments, and spending habits.
